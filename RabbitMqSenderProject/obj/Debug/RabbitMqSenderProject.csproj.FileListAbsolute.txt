@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\obj\Debug\RabbitMqSenderProject.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\RabbitMqSenderProject.exe.config
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\RabbitMqSenderProject.exe
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\RabbitMqSenderProject.pdb
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\RabbitMQ.Client.dll
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\bin\Debug\RabbitMQ.Client.xml
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\obj\Debug\RabbitMqSenderProject.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\obj\Debug\RabbitMqSenderProject.exe
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\obj\Debug\RabbitMqSenderProject.pdb
+C:\Users\MONSTER\source\repos\RabbitMqSenderProject\RabbitMqSenderProject\obj\Debug\RabbitMqSenderProject.csprojAssemblyReference.cache
